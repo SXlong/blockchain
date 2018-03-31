@@ -11,5 +11,5 @@
 Debug/  
 Release/  
 obj/
-.settings/
-target/
+/.settings/
+/target/
